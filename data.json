@@ -1,0 +1,74 @@
+[
+  {
+    "eircode": "D00 9999",
+    "appliance": "cooker",
+    "brand": " Samsung",
+    "model": "000-000-0000",
+    "serial": "0000-0000-0000",
+    "purchaseDate": "12/03/2026",
+    "warrantyDate": "27/03/2026"
+  },
+  {
+    "eircode": "D00 9999",
+    "appliance": "cooker",
+    "brand": " Samsung",
+    "model": "000-000-0000",
+    "serial": "0000-0000-0000",
+    "purchaseDate": "26/03/2026",
+    "warrantyDate": "27/03/2026"
+  },
+  {
+    "eircode": "D00 9999",
+    "appliance": "cooker",
+    "brand": " Samsung",
+    "model": "000-000-0000",
+    "serial": "0000-0000-0000",
+    "purchaseDate": "26/03/2026",
+    "warrantyDate": "27/03/2026"
+  },
+  {
+    "eircode": "D00 0000",
+    "appliance": "fridge",
+    "brand": " Samsung",
+    "model": "000-000-0000",
+    "serial": "0000-0000-0000",
+    "purchaseDate": "27/03/2026",
+    "warrantyDate": "26/03/2026"
+  },
+  {
+    "eircode": "D00 0000",
+    "appliance": "cooker",
+    "brand": "Samsungggggggg",
+    "model": "000-000-0000",
+    "serial": "0000-0000-0000",
+    "purchaseDate": "18/03/2026",
+    "warrantyDate": "26/03/2026"
+  },
+  {
+    "eircode": "D00 9999",
+    "appliance": "cooker",
+    "brand": "Samsung",
+    "model": "000-000-0000",
+    "serial": "0000-0000-0000",
+    "purchaseDate": "26/03/2026",
+    "warrantyDate": "28/03/2026"
+  },
+  {
+    "eircode": "D00 9999",
+    "appliance": "cooker",
+    "brand": "Samsung",
+    "model": "000-000-0000",
+    "serial": "0000-0000-0000",
+    "purchaseDate": "24/03/2026",
+    "warrantyDate": "28/03/2026"
+  },
+  {
+    "eircode": "D00 0000",
+    "appliance": "cooker",
+    "brand": "Samsung",
+    "model": "000-000-0000",
+    "serial": "0000-0000-0000",
+    "purchaseDate": "25/03/2026",
+    "warrantyDate": "27/03/2026"
+  }
+]
